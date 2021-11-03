@@ -1,3 +1,25 @@
 body{
     background-color: limegreen;
 }
+
+header {
+    background-color: hotpink;
+}
+
+ul {
+    padding: 5px;
+    text-decoration: none;
+    list-style-type: none;
+    
+}
+
+li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px;
+}
+
+.container {
+    display: flex;
+    justify-content: flex-start;
+
+}
