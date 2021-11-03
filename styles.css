@@ -10,7 +10,11 @@ header {
     padding: 10px 0px 10px 0px;
 }
 
-
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
 
 ul {
     padding: 5px;
@@ -25,9 +29,9 @@ li {
 
 .container-navigation {
     display: flex;
-    flex-direction: row-reverse;
-    
+    flex-direction: row;
     justify-content: space-evenly;
+   
 
 }
 
@@ -35,7 +39,24 @@ li {
     background-color: blueviolet;
 }
 
+.container-kitten {
+    border: 3px dashed orange;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+    
+}
+
 
 .placekitten {
     border: 1px solid yellow;
+}
+
+.kitten-copy {
+    width: 400px;
+    font-family: verdana;
+    font-size: 16px;
+    font-weight: bold;
 }
