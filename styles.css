@@ -1,3 +1,6 @@
+
+
+
 body{
     background-color: limegreen;
 }
@@ -6,9 +9,10 @@ header {
     background-color: hotpink;
 }
 
+
+
 ul {
     padding: 5px;
-    text-decoration: none;
     list-style-type: none;
     
 }
@@ -18,8 +22,10 @@ li {
     padding: 5px;
 }
 
-.container {
+.container-navigation {
     display: flex;
-    justify-content: flex-start;
+    justify-content: space-evenly;
 
 }
+
+
