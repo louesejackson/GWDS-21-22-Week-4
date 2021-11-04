@@ -24,14 +24,15 @@ ul {
 
 li {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding: 5px;
+    padding: 10px;
+    border: 2px solid limegreen;
+    background-color: aliceblue;
 }
 
 .container-navigation {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-   
 
 }
 
