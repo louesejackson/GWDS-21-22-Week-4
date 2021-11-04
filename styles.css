@@ -125,3 +125,11 @@ figcaption {
     text-align: center;
     color: white;
 }
+
+/* section 5 media items */
+
+.section-five {
+    background-color: goldenrod;
+    height: 600px;
+
+}
