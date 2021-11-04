@@ -43,7 +43,7 @@ li {
 .push {
     margin-left: auto;
 }
-
+/* section one flex grow and shrink */
 .section-one {
     background-color: blueviolet;
     height: 400px;
@@ -79,3 +79,21 @@ li {
 
 }
 
+/* section 2 center item */
+
+.section-two {
+    background-color: orangered;
+    height: 700px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+/* section 3 youtube video */
+
+.section-three {
+    background-color: lightcoral;
+    height: 600px;
+}
