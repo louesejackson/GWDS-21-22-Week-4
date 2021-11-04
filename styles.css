@@ -46,5 +46,36 @@ li {
 
 .section-one {
     background-color: blueviolet;
+    height: 400px;
+    
+}
+
+.flexgrow-container {
+    display: flex;
+}
+
+.box1 {
+    background-color: skyblue;
+    
+    height: 150px;
+    flex: 1 1 auto;
+
+}
+
+.box2 {
+
+    background-color: lightgreen;
+    
+    height: 150px;
+    flex: 1 1 auto;
+}
+
+.box3 {
+
+    background-color: darkmagenta;
+    
+    height: 150px;
+    flex: 1 1 auto;
+
 }
 
