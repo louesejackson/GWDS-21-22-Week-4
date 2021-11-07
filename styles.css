@@ -101,6 +101,11 @@ li {
 .section-three {
     background-color: lightcoral;
     height: 800px;
+    display: flex;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
     
     
 }
@@ -113,6 +118,11 @@ li {
     height: 500px;
     display: flex;
 
+}
+
+iframe { 
+    padding: 5px;
+    
 }
 
 
