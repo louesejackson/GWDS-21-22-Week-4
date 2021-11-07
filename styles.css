@@ -110,6 +110,11 @@ li {
     
 }
 
+iframe { 
+    padding: 5px;
+    
+}
+
 
 /* section 4 embed audio */
 
@@ -117,13 +122,19 @@ li {
     background-color: darkslateblue;
     height: 500px;
     display: flex;
-
+    /* flex-direction: column; */
+    align-items: center;
+    justify-content: center;
 }
 
-iframe { 
-    padding: 5px;
-    
+figcaption {
+    font-family: cursive;
+    font-size: 20px;
+    text-align: center;
+    color: white;
 }
+
+
 
 
 /* section 5 media items */
@@ -134,3 +145,23 @@ iframe {
 
 }
 
+.media-container {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    padding: 15px 25px 15px 15px;
+    
+}
+
+.media-container .mediacontent {
+    flex: 1;
+    padding: 10px;
+}
+
+.mediacontent {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: navy;
+    font-size: 20px;
+    
+
+}
