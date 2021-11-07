@@ -79,23 +79,8 @@ iframe {
 .section-four {
     background-color: darkslateblue;
     height: 500px;
-    display: flex;
-    /* flex-direction: column; */
-    align-items: center;
-    justify-content: center;
+    
 }
-
-figcaption {
-    font-family: cursive;
-    font-size: 20px;
-    text-align: center;
-    color: white;
-}
-
-
-
-
-
 
 /* section 5 media items */
 
