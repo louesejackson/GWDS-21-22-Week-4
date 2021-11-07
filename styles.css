@@ -9,48 +9,14 @@ body{
 
 header {
     background-color: hotpink;
+    padding: 10px 0px 10px 0px;
     
     
 }
-
-h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 60px;
-    text-align: center;
-}
-
-ul {
-    list-style-type: none;
-    padding: 5px;
-    
-}
-
-li {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding: 10px;
-    margin: 0px 3px;
-    border: 1px solid limegreen;
-    border-radius: 10px;
-    background-color: aliceblue;
-}
-
-.container-navigation {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    justify-content: flex-start;
-}
-
-.push {
-    margin-left: auto;
-}
-
 
 
 /* section one flex grow and shrink */
 
-
-/* section one flex grow and shrink */
 .section-one {
     background-color: blueviolet;
     
@@ -91,9 +57,7 @@ li {
 .section-two {
     background-color: orangered;
     height: 700px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+
 }
 
 /* section 3 youtube video */
@@ -101,13 +65,7 @@ li {
 .section-three {
     background-color: lightcoral;
     height: 800px;
-    display: flex;
-    /* flex-direction: column; */
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
-    
-    
+
 }
 
 iframe { 
@@ -133,6 +91,8 @@ figcaption {
     text-align: center;
     color: white;
 }
+
+
 
 
 
