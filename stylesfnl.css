@@ -133,7 +133,6 @@ figcaption {
 
 .section-five {
     background-color: goldenrod;
-    height: 1400px;
 
 }
 
@@ -157,3 +156,18 @@ figcaption {
     
 
 }
+
+/* footer goes here */
+
+footer {
+    background-color: rebeccapurple;
+    height: 30px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-small;
+    color: white;
+    padding: 10px; 0px; 
+    
+
+}
+
