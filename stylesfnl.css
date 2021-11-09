@@ -170,3 +170,13 @@ footer {
     padding: 10px 0px; 
     }
 
+
+    /* button style */
+
+    .btn-nav {
+        border: 3px dashed darkred;
+    }
+
+    .btn-nav hover {
+        border: 3px dashed white;
+    }
