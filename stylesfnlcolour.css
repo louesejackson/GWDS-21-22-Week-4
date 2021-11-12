@@ -97,7 +97,7 @@ li {
 /* section 3 youtube video */
 
 .section-three {
-    background-color: lightcoral;
+    background-color: #D95A11;
     height: 800px;
     display: flex;
     flex-wrap: wrap;
@@ -133,7 +133,7 @@ figcaption {
 /* section 5 media items */
 
 .section-five {
-    background-color: goldenrod;
+    background-color: #D95A11;
 
 }
 
@@ -152,7 +152,7 @@ figcaption {
 
 .mediacontent {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: navy;
+    color: #F2F2F2;
     font-size: 20px;
     
 
@@ -161,7 +161,7 @@ figcaption {
 /* footer goes here */
 
 footer {
-    background-color: rebeccapurple;
+    background-color: #F29F05;
     height: 30px;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -174,7 +174,7 @@ footer {
     /* button style */
 
 button {
-    border: 1px solid blueviolet;
+    border: 1px solid #BF0426;
     border-radius: 5px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: large;
@@ -184,19 +184,19 @@ button {
 }
 
 button:hover {
-    background-color: #F2F2F2;
+    background-color: #D95A11;
     color: white;
   }
 
   button:active {
-    background-color: #3e8e41;
-    box-shadow: 0 5px darkred;
+    background-color: #D95A11;
+    box-shadow: 0 5px #BF0426;
     transform: translateY(4px);
   }
 
   .button-one-section {
 
-      background-color: cornflowerblue;
+      background-color: #BF0426;
       padding: 20px 0px;
       display: flex; 
       justify-content: center;
@@ -233,7 +233,7 @@ button:hover {
 }
 
 .slides::-webkit-scrollbar-thumb {
-    background: hotpink;
+    background: #F29F05;
     border-radius: 10px;
   }
 
