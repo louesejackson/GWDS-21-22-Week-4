@@ -2,11 +2,11 @@
 
 
 body{
-    background-color: limegreen;
+    background-color: #F2F2F2;
 }
 
 header {
-    background-color: hotpink;
+    background-color: #F29F05;
     padding: 10px 0px 10px 0px;
     
 }
@@ -27,7 +27,7 @@ li {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 10px;
     margin: 0px 3px;
-    border: 1px solid limegreen;
+    border: 1px solid #F2F2F2;
     border-radius: 10px;
     background-color: aliceblue;
     
@@ -87,7 +87,7 @@ li {
 /* section 2 center item */
 
 .section-two {
-    background-color: orangered;
+    background-color: #BF0426;
     height: 700px;
     display: flex;
     align-items: center;
@@ -115,7 +115,7 @@ iframe {
 /* section 4 embed audio */
 
 .section-four {
-    background-color: darkslateblue;
+    background-color: #BF0426;
     height: 500px;
     display: flex;
     /* flex-direction: column; */
@@ -184,7 +184,7 @@ button {
 }
 
 button:hover {
-    background-color: limegreen;
+    background-color: #F2F2F2;
     color: white;
   }
 
