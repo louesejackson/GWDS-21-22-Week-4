@@ -194,6 +194,8 @@ button:hover {
     transform: translateY(4px);
   }
 
+/* interior page */
+
   .button-one-section {
 
       background-color: #BF0426;
@@ -203,6 +205,14 @@ button:hover {
       align-items: center;
     
     } 
+
+    .button-top-img {
+        border: 3px solid white;
+        border-radius: 10px;
+        box-shadow: 10px 10px 20px black;
+        width: 70%;
+    }
+
 
     /* slider */
 

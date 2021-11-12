@@ -1,3 +1,38 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap">
 
 <link rel="stylesheet" href="https://use.typekit.net/voo6uzo.css">
+
+
+<main>
+            <section class="button-one-section">
+                
+                <div class="slider">
+  
+                    <a href="#slide-1">1</a>
+                    <a href="#slide-2">2</a>
+                    <a href="#slide-3">3</a>
+                    <a href="#slide-4">4</a>
+                    <a href="#slide-5">5</a>
+                  
+                    <div class="slides">
+                      <div id="slide-1">
+                        <img class ="slide-image" src="http://placekitten.com/600/300" alt="a kitten image">
+                      </div>
+                      <div id="slide-2">
+                        <img class ="slide-image" src="http://www.fillmurray.com/600/300" alt="an image of Bill Murray">
+                      </div>
+                      <div id="slide-3">
+                        <img src="http://placebear.com/600/300" alt="an image of a large bear">
+                      </div>
+                      <div id="slide-4">
+                        <img class ="slide-image" src="http://placedog.net/600/300" alt="an image of a doggo">
+                      </div>
+                      <div id="slide-5">
+                        <img class="slide-image" src="https://www.placecage.com/600/300" alt="an image of Nick Cage">
+                      </div>
+                    </div>
+                  </div>
+
+            </section>
+
+        </main>
