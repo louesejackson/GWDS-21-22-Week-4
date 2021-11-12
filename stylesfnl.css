@@ -173,7 +173,7 @@ footer {
 
     /* button style */
 
-button {
+ button {
     border: 1px solid blueviolet;
     border-radius: 5px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -183,7 +183,7 @@ button {
     transition-duration: .4s;
 }
 
-button:hover {
+ button:hover {
     background-color: limegreen;
     color: white;
   }
@@ -192,7 +192,7 @@ button:hover {
     background-color: #3e8e41;
     box-shadow: 0 5px darkred;
     transform: translateY(4px);
-  }
+  } 
 
   .button-one-section {
 
